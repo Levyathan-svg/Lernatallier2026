@@ -19,17 +19,17 @@
 
 ## Tagesplanungen
 
-### Planung 16.08.2024
+### Planung 28.08.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [X] Ein Spiel zu programmieren, wo man eine zufällige zahl erraten muss
+- [ ] Modul 431 bis und mit der 8 Aufgabe Erledigen
+- [ ] Modul 319 Mission 3 Repetieren und 4 Erledigen
 
 (Heute habe ich... (50-100 Wörter))
 
 
-### Planung 23.08.2024
+### Planung 4.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
