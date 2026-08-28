@@ -23,18 +23,19 @@
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Ein Spiel zu programmieren, wo man eine zufällige zahl erraten muss
-- [ ] Modul 431 bis und mit der 8 Aufgabe Erledigen
-- [ ] Modul 319 Mission 3 Repetieren und 4 Erledigen
+- [ -] Modul 431 bis und mit der 8 Aufgabe Erledigen
+- [ -] Modul 319 Mission 3 Repetieren und 4 Erledigen
 
 (Heute habe ich... (50-100 Wörter))
+Heute Habe ich das zahlenspiel programmiert. Ich habe das Programm versucht selber zu programmieren mithilfe der KI. Ich habe auch rausgefunden was break; ist und wie man eine Schleife macht. Ich habe heute Modul 319 Repetiert, aber bin mit Modul 4 nicht ganz fertig. Das gleiche geht auch noch für Modul 431.
 
 
 ### Planung 4.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Ordner richtig einrichten
+- [ ] an Modul 319 weiterarzubeiten
+- [ ] Ein Schere, Stein, Papier zu Programmieren
 
 (Heute habe ich... (50-100 Wörter))
 
