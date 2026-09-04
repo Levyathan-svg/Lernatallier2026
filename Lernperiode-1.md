@@ -33,8 +33,8 @@ Heute Habe ich das zahlenspiel programmiert. Ich habe das Programm versucht selb
 ### Planung 4.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Ordner richtig einrichten
-- [ ] an Modul 319 weiterarzubeiten
+- [X ] Ordner richtig einrichten
+- [ ] an Modul 319 weiterarbeiten bis und mit Mission 6
 - [ ] Ein Schere, Stein, Papier zu Programmieren
 
 (Heute habe ich... (50-100 Wörter))
