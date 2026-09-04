@@ -34,10 +34,11 @@ Heute Habe ich das zahlenspiel programmiert. Ich habe das Programm versucht selb
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X ] Ordner richtig einrichten
-- [ ] an Modul 319 weiterarbeiten bis und mit Mission 6
-- [ ] Ein Schere, Stein, Papier zu Programmieren
+- [X ] an Modul 319 weiterarbeiten bis und mit Mission 6
+- [/] Ein Schere, Stein, Papier zu Programmieren
 
 (Heute habe ich... (50-100 Wörter))
 
+Ich habe heute meine Ordner richtig eingerichtet, sodass ich Sachen ohne Probleme speichern und finden kann. Ich habe heute auch an Modul 319 gearbeitet bis und mit Mission 6, dies hat mir jedoch viel Zeit weg genommen. ich bin leider nicht zu meinem eigenen Projekt gekommen, da ich am ende kaum Zeit mehr hatte.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
