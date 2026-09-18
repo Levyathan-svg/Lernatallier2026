@@ -42,3 +42,15 @@ Heute Habe ich das zahlenspiel programmiert. Ich habe das Programm versucht selb
 Ich habe heute meine Ordner richtig eingerichtet, sodass ich Sachen ohne Probleme speichern und finden kann. Ich habe heute auch an Modul 319 gearbeitet bis und mit Mission 6, dies hat mir jedoch viel Zeit weg genommen. ich bin leider nicht zu meinem eigenen Projekt gekommen, da ich am ende kaum Zeit mehr hatte.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+
+
+
+
+### Planung 18.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Bei meinem Spiel 1 neuen weg um Geld zu verdienen hinzuzufügen
+- [] Mission 9 in Modul 319 erledigen
+- [] In meinem Spiel die Option, mehrere Gems auf einmal zu kaufen, Hinzuzufügen.
+
+  (Heute habe ich... (50-100 Wörter))
