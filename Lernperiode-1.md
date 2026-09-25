@@ -40,8 +40,6 @@ Heute Habe ich das zahlenspiel programmiert. Ich habe das Programm versucht selb
 (Heute habe ich... (50-100 Wörter))
 
 Ich habe heute meine Ordner richtig eingerichtet, sodass ich Sachen ohne Probleme speichern und finden kann. Ich habe heute auch an Modul 319 gearbeitet bis und mit Mission 6, dies hat mir jedoch viel Zeit weg genommen. ich bin leider nicht zu meinem eigenen Projekt gekommen, da ich am ende kaum Zeit mehr hatte.
-## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
 
 
 
@@ -49,8 +47,23 @@ Ich habe heute meine Ordner richtig eingerichtet, sodass ich Sachen ohne Problem
 ### Planung 18.09.2024
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Bei meinem Spiel 1 neuen weg um Geld zu verdienen hinzuzufügen
-- [] Mission 9 in Modul 319 erledigen
-- [] In meinem Spiel die Option, mehrere Gems auf einmal zu kaufen, Hinzuzufügen.
+- [X] Bei meinem Spiel 1 neuen weg um Geld zu verdienen hinzuzufügen
+- [X] Mission 9 in Modul 319 erledigen
+- [X] In meinem Spiel die Option, mehrere Gems auf einmal zu kaufen, Hinzuzufügen.
 
   (Heute habe ich... (50-100 Wörter))
+Ich habe die Mission 9 im Modul 319 erledigt. Auch habe ich die Option hinzugefügt, mehrere Gems auf einmal zu kaufen. Ich habe ein Glücksspiel hinzugefügt wo man auf Rot oder Schwarz tippen muss, um sein einsatz zu Vermehren.
+
+### Planung 25.09.2024
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Ein Kurzes Projekt anfangen, wo ich meine jetzige Programmierskills benutzen kann
+- [X] Bis zu Mission 15 in Modul 431 zu gelangen und zu erledigen
+- [X] Mein Gamble Spiel übersichtlicher machen, damit man weiss wann eine Runde endet.
+
+  (Heute habe ich... (50-100 Wörter))
+
+
+## Lernperiode Reflexion
+(In dieser Lernperiode habe ich... (100-150 Wörter))
+
