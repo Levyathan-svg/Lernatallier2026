@@ -58,12 +58,13 @@ Ich habe die Mission 9 im Modul 319 erledigt. Auch habe ich die Option hinzugef�
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Ein Kurzes Projekt anfangen, wo ich meine jetzige Programmierskills benutzen kann
-- [X] Bis zu Mission 15 in Modul 431 zu gelangen und zu erledigen
+- [] Bis zu Mission 15 in Modul 431 zu gelangen und zu erledigen
 - [X] Mein Gamble Spiel übersichtlicher machen, damit man weiss wann eine Runde endet.
 
   (Heute habe ich... (50-100 Wörter))
+Ich habe heute ein Spiel programmeirt, wo man die zahl zwischen 1- eine million eraten muss. wenn man ratet sagt das Programm dir ob die Zahl zu hoch oder zu Tief ist. Ich habe bei meinen gamble Spiel auch das Console.Clear(); Problem behoben welches das Spiel viel durchsichtlicher macht. Ich habe bis zu Mission 14 gearbeitet, es ist mir jedoch zu langweilig geworden und ich habe deswegen lieber Programmiert
 
 
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
-
+In dieser Lernperiode habe ich mein Gamble Spiel gemacht. Man kann das Spiel hauptsächlich unendlich lang Spielen. Mann öffnet crates, welche dir Items gebe. Ich habe viel Gelernt während ich das Spiel programmiert habe und es hat mir auch spass gemacht. Ich habe auch viel an den Modulen 319 und 431 gearbeitet, jedoch war es für mich dann eher langweilig als ich am Modul 431 gearbeitet habe. Allgemein habe ich ein paar Programme programmiert, wie zum Beispiel ein Schere Stein Papier, Taschenrechner, Nummer eraten game, Glückspiel usw.
