@@ -78,9 +78,11 @@ In dieser Lernperiode habe ich mein Gamble Spiel gemacht. Man kann das Spiel hau
 
 ### Noten
 > Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Habe Gerade nur 1 Prüfung, Note 5.4
 
 ### Veränderungen
 > Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+Mehr Organisiert arbeiten, Dateien Richtig Speichern
 
 ### Projekte / neue Technologien
 > Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
@@ -90,7 +92,7 @@ In dieser Lernperiode habe ich mein Gamble Spiel gemacht. Man kann das Spiel hau
 
 ## Tagesplanungen
 
-### Planung 28.08.2024
+### Planung 23.10.2026
 3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Modul 431 bis Mission 20 erledigen
@@ -100,3 +102,15 @@ In dieser Lernperiode habe ich mein Gamble Spiel gemacht. Man kann das Spiel hau
         (Heute habe ich... (50-100 Wörter))
 
       Heute habe ich Alle Missionen bis zu Mission 20 erledigt, Modul 319 repetiert und somit auch Vorbereitet für die Prüfung am Mittwoch. Ich habe Auch meine Fehler bei dem OBA Test gesehen und mich dort selbst verbessert
+
+
+### Planung 30.10.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Ordner Besser Aufstellen und Unnötige Dateien Löschen.
+- [X] Besser zu Werden in Dokumentationen auf Word Erstellen
+- [X] Besser werden mit Powerpoints gestalten
+
+        (Heute habe ich... (50-100 Wörter))
+
+    Heute habe ich meinen Order besser Gemacht, sachen sind viel übersichtlicher und ich habe Alte Dateien auch gelöscht. Ich habe etwas mehr über Word Dokumentationen gelernt und habe Meine Designing skills verbessert. Das gleiche habe ich dann bei Powerpoint gemacht.
