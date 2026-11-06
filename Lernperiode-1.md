@@ -114,3 +114,15 @@ Mehr Organisiert arbeiten, Dateien Richtig Speichern
         (Heute habe ich... (50-100 Wörter))
 
     Heute habe ich meinen Order besser Gemacht, sachen sind viel übersichtlicher und ich habe Alte Dateien auch gelöscht. Ich habe etwas mehr über Word Dokumentationen gelernt und habe Meine Designing skills verbessert. Das gleiche habe ich dann bei Powerpoint gemacht.
+
+
+
+### Planung 30.10.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [X] Französisch-Quiz Projekt mit Melchis starten
+- [X] Beim Quiz nach Iperka Nachgehen
+- [X] Nötige Sachen für das Projekt lernen
+
+        (Heute habe ich... (50-100 Wörter))
+
