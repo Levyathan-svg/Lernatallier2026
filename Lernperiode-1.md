@@ -120,11 +120,20 @@ Mehr Organisiert arbeiten, Dateien Richtig Speichern
 ### Planung 6.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [/] Französisch-Quiz Projekt mit Melchis starten
+- [X] Französisch-Quiz Projekt mit Melchis starten
 - [X] Beim Quiz nach Iperka Nachgehen
 - [X] Nötige Sachen für das Projekt lernen
 
         (Heute habe ich... (50-100 Wörter))
 
-      Heute habe ich mich Informiert über wie Ich vorgehen muss in unseren Projekt, und ich habe mithilfe von KI neue Begriffe in C# gelernt. Mit dem Projekt haben wir jedoch noch nicht angefangen. Ich habe auch noch unsere Anforderungsliste etwas bearbeitet, sodass wir genauer Arbeiten können.
+      Heute habe ich mich Informiert über wie Ich vorgehen muss in unseren Projekt, und ich habe mithilfe von KI neue Begriffe in C# gelernt. Mit dem Projekt haben wir jedoch noch nicht angefangen (Mit dem Programmieren). Ich habe auch noch unsere Anforderungsliste etwas bearbeitet, sodass wir genauer Arbeiten können.
+
+      ### Planung 13.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [] Unity installieren und ein Escape-Game Projekt erstellen
+- [] Charaktere für mein Unity Spiel machen
+- [] Melchis helfen, die 2 Option beim Französisch-Quiz zu erstellen
+
+        (Heute habe ich... (50-100 Wörter))
 
