@@ -59,11 +59,11 @@ Mehr Organisiert arbeiten, Dateien Richtig Speichern
   ### Planung 13.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [] Unity installieren und ein Escape-Game Projekt erstellen
-- [] Den Main und Monster Charakter erstellen.
-- [] Die Beide Charaktere ins Spiel Implementieren.
-- [] Melchis helfen, die 2 Option beim Französisch-Quiz zu erledigen
+- [X] Unity installieren und ein Escape-Game Projekt erstellen
+- [-] Den Main und Monster Charakter erstellen.
+- [-] Die Beide Charaktere ins Spiel Implementieren.
+- [X] Melchis helfen, die 2 Option beim Französisch-Quiz zu erledigen
 
         (Heute habe ich... (50-100 Wörter))
-
-        (Heute habe ich... (50-100 Wörter))
+Heute habe Ich Unity installiert und mein Escape-Game Projekt Erfolgreich Erstellt. Ich habe jedoch nur den Main Character / Player Character implementiert, da es mir schwerfällt die Charaktere ins Spiel rüberzubringen und erfolgreich zu Programmieren. Ich habe Melchis Geholfen die 2 Option in unserem Spiel (Eigene Quiz Frage erstellen) zu machen und zu Erledigen
+     
