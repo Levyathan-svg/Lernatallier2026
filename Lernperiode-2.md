@@ -66,4 +66,12 @@ Mehr Organisiert arbeiten, Dateien Richtig Speichern
 
         (Heute habe ich... (50-100 Wörter))
 Heute habe Ich Unity installiert und mein Escape-Game Projekt Erfolgreich Erstellt. Ich habe jedoch nur den Main Character / Player Character implementiert, da es mir schwerfällt die Charaktere ins Spiel rüberzubringen und erfolgreich zu Programmieren. Ich habe Melchis Geholfen die 2 Option in unserem Spiel (Eigene Quiz Frage erstellen) zu machen und zu Erledigen
+
+  ### Planung 13.11.2026
+3 bis 5 klar messbare Arbeitspakete.
+
+- [-] HZ 3 und Teil 1 von HZ 4 Erledigen
+- [-] Monster Charakter erstellen.
+- [-] Bewegungs Programm für den Spieler Charakter erstellen.
+- [-] Im Französisch - Quiz Projekt das Speichern der eigenen Quizzes ermöglichen.
      
