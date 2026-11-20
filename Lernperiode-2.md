@@ -70,8 +70,11 @@ Heute habe Ich Unity installiert und mein Escape-Game Projekt Erfolgreich Erstel
   ### Planung 13.11.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [-] HZ 3 und Teil 1 von HZ 4 Erledigen
-- [-] Monster Charakter erstellen.
-- [-] Bewegungs Programm für den Spieler Charakter erstellen.
-- [-] Im Französisch - Quiz Projekt das Speichern der eigenen Quizzes ermöglichen.
-     
+- [X] HZ 3 und Teil 1 von HZ 4 Erledigen
+- [X] Monster Charakter erstellen.
+- [X] Bewegungs Programm für den Spieler Charakter erstellen.
+- [/] Im Französisch - Quiz Projekt das Laden der eigenen Quizzes ermöglichen.
+
+  (Heute habe ich... (50-100 Wörter))
+
+     Heute habe ich Das HZ 3 und Teil 1 von HZ 4 erledigt. Danach habe ich an meinem Unity spiel gearbeitet. Ich habe den Bewegungs Programm gemacht und Ich habe ANimationen fürs Laufen hinzugefügt. Das Monster habe ich heute auch auf Piksel gemacht. Ich habe jedoch nicht am französisch quiz gearbeitet, da Melchis die Speicher funktion noch optimieren muss 
